@@ -127,11 +127,11 @@ header {
     background-color: rgba(0, 0, 0, 0.7);
     height: 60px; }
   header h1#logo {
-    width: 300px;
+    width: 230px;
     height: 111px;
     background: url("https://res.cloudinary.com/dynxdvrhv/image/upload/v1459271627/logo.png") no-repeat;
     background-size: contain;
-    margin-top: 15px; }
+    margin-top: 30px; }
     header h1#logo.sticky {
       width: 130%;
       height: 51px;
@@ -403,6 +403,12 @@ nav {
 p#intro {
   font-size: 1.3em;
   line-height: 1.6em; }
+  
+p#readMore {
+  font-size: 1.3em;
+  line-height: 1.6em; 
+  margin-bottom:60px;
+  }
 
 #about-wrap {
   border-bottom: 1px solid #d8d8d8;
