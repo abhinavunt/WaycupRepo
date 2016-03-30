@@ -127,11 +127,11 @@ header {
     background-color: rgba(0, 0, 0, 0.7);
     height: 60px; }
   header h1#logo {
-    width: 230px;
+    width: 300px;
     height: 111px;
-    background: url("http://res.cloudinary.com/dynxdvrhv/image/upload/v1459271627/logo.png") no-repeat;
+    background: url("https://res.cloudinary.com/dynxdvrhv/image/upload/v1459271627/logo.png") no-repeat;
     background-size: contain;
-    margin-top: 30px; }
+    margin-top: 15px; }
     header h1#logo.sticky {
       width: 130%;
       height: 51px;
@@ -357,7 +357,7 @@ nav {
 /* ============== CAROUSEL SECTION ================ */
 #myCarousel {
   margin: 0 auto;
-  background: url("http://res.cloudinary.com/dynxdvrhv/image/upload/v1459271629/landingImage.jpg") no-repeat fixed;
+  background: url("https://res.cloudinary.com/dynxdvrhv/image/upload/v1459271629/landingImage.jpg") no-repeat fixed;
   background-size: cover;
   min-height: 900px; }
   #myCarousel .item {
