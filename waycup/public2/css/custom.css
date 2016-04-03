@@ -1,0 +1,150 @@
+#logoImg{
+	height: 63px;
+    margin-bottom: -41px;
+}
+/* 
+#navbar-main a{
+	color:#1F487C;
+	font-size:17px;
+	font-weight:bold;
+}
+
+#navbar-main a:hover{
+	color:#D8D8D8;
+} */
+
+.navbar-default .navbar-nav>li>a {
+	color:#1F487C;
+	font-size:17px;
+	font-weight:bold;
+	
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color:#D8D8D8;
+	
+}
+
+.navbar-default {
+    background-color: #4AACC5;
+    border-color: #4AACC5;
+}
+
+#navBar{
+	font-family: monospace;
+    font-size: large;
+    font-weight: 700;
+    
+   
+	
+}
+
+.jumboBox{
+	margin-top:51px;
+	width:100%;
+	min-height:775px;
+	background:white;
+	
+}
+
+.centerText{
+	text-align:center;
+}
+
+.jumboBox .headingText1{
+	margin-top:100px;
+	font-size: 5.00em;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: right;
+    color:#E36C08;
+
+}
+
+.jumboBox .headingText2{
+	margin-top:65px;
+	font-size: 3.00em;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: right;
+    color:#E36C08;
+
+}
+
+.readMoreBtn
+{
+    text-align:right;
+    color:white;
+}
+
+.readMoreBtn a
+{
+    background:#E36C08;
+    color:white;
+    margin-top:50px;
+    font-size: 2.00em;
+    border-radius: 30px;
+    padding: 13px;
+
+}
+
+.readMoreBtn a:hover { 
+    background:#4AACC5;
+    color:white;
+    margin-top:50px;
+    font-size: 2.00em;
+    border-radius: 30px;
+    padding: 13px;
+}
+
+.readMoreImg{
+	height:300px
+	
+}
+
+strong{
+	color:#E36C08;
+}
+
+.page3{
+	margin-bottom:200px;
+}
+
+.page3 p{
+	font-size:17px;
+}
+
+.reachBlock{
+	background:#DBEEF4;
+	padding:10px;
+	margin-right: -15px;
+	margin-left: -15px;
+	height: 360px;
+}
+
+.impactBlock{
+	background:#B7DEE8;
+	padding:10px;
+	margin-right: -15px;
+	margin-left: -15px;
+	height:360px;
+}
+
+.growBlock{
+	background:#93CDDD;
+	padding:10px;
+	margin-right: -15px;
+	margin-left: -15px;
+	height: 360px;
+}
+
+.footer{
+	width:100%;
+	min-height:300px;
+	background:#D8D8D8;
+}
+
+
+
